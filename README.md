@@ -1,5 +1,3 @@
-#CanFamHMM
-
 ## Background 
 
 CanFamHmm is an effort to perform haplotype reconstruction in domestic dogs using publicly available data. Several researchers have published genotype data for pure bred dogs and these can serve as refrence data to reconstruct mixed breed dog genomes in terms up pure breed haplotypes. 
